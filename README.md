@@ -20,6 +20,8 @@ r= fromLista1(lista)
 
 print(es2(r))
 
+# Result
+
 
 
 
