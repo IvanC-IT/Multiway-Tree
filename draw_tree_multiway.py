@@ -57,7 +57,6 @@ def pad(sottoalberi):
             righe.extend([pad]*(H-h))
 
 def es2(r):
-    #inserisci qui il tuo codice
     righe, c, w, h = converti(r)
     return '\n'.join(righe)
        
