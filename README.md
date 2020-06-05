@@ -14,7 +14,7 @@ lista =  (see exsample inside the script)
 
 ''' convert list to tree '''
 
-r=albero.fromLista1(lista)
+r= fromLista1(lista)
 
 ''' print tree ''
 
