@@ -1,10 +1,10 @@
 # Mutliway-Tree
 This Python code allows you to graphically represent a multiway tree.
 
-# Prerequisites
+## Prerequisites
 Python3
 
-# Usage
+## Usage
 
 Inside script:
 
@@ -20,11 +20,12 @@ r= fromLista1(lista)
 
 print(es2(r))
 
-# Result
+## Result
 
-See Result.png
+![Result](https://user-images.githubusercontent.com/54840154/85112905-ae35af80-b216-11ea-990f-1ee9ebfe2701.PNG)
 
-# Contributing
+
+### Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
